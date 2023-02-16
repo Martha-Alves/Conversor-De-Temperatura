@@ -34,6 +34,6 @@ function converterTemperatura(grau, temp_inicial, temp_final) {
 
 }
 
-converterTemperatura(33, "c", "F");
+converterTemperatura(34, "c", "F");
 
 //converterTemperatura(temperatura em graus, medida inicial da temperatura, medida final da temperatura)
